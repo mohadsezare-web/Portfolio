@@ -7,7 +7,11 @@ export default function para(){
       <Header/>
       <div className="sm:mt-[40%] lg:mt-[18%]">
       <figure className="w-full mt-[-200px] flex justify-center ">
+<<<<<<< HEAD
         <img className="w-52 h-auto object-cover rounded-full" src="/me.png" alt="my photo" />
+=======
+        <img className="w-52 h-auto object-cover rounded-full" src="/My-img.png" alt="" />
+>>>>>>> 59af6b5 (Add logo in public and Add img in header)
       </figure>
       <h1 className="bg-gradient-to-r from-pink-300 via-yellow-50 to-amber-200  text-transparent bg-clip-text w-full text-center sm:text-[40px] lg:text-5xl font-bold pt-8">Hey, i'm Mohadese Zare</h1>
       <h2 className="text-pink-200 w-full text-center sm:text-[30px] lg:text-3xl font-semibold pt-6">Front End Developer</h2>
